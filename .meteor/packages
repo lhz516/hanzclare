@@ -12,3 +12,5 @@ fourseven:scss
 poetic:materialize-scss
 natestrauser:animate-css
 fortawesome:fontawesome
+mdg:reload-on-resume
+nucleuside:live-update
